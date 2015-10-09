@@ -4,6 +4,8 @@ A simple "supergrid" HTML5 table grid editor, with no other dependency and light
 
 _EXPERIMENTAL_
 
+[http://diogok.github.io/supagrid](Check it out).
+
 ## Usage
 
 Include the CSS and JS:
